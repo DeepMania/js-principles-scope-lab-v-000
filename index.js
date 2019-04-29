@@ -19,4 +19,5 @@ leastFavoriteCustomer = "Mr P";
 
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "Mrs P";
+  return leastFavoriteCustomer;
 }
